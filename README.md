@@ -1,85 +1,106 @@
-# 📊 Student Performance Analysis  
+<!-- Banner -->
+<h1 align="center">📊 Student Performance Analysis</h1>
+<p align="center">
+  <b>Data-driven Insights into Academic Performance | Powered by IBM SkillsBuild & Power BI</b>  
+</p>
 
-![IBM Logo](ibm_img.jpeg)  
-
-## 🚀 Overview  
-This project analyzes **academic scores and performance patterns** of students using **Python, Jupyter Notebook, and Power BI**.  
-The goal is to uncover hidden insights, identify performance gaps, and provide educators with **data-driven strategies** to improve learning outcomes.  
-
----
-
-## 🎯 Problem Statement  
-Students’ academic achievements are influenced by multiple factors like:  
-- Socio-economic status  
-- Parental education  
-- Test preparation courses  
-- Lunch type  
-
-However, identifying which factors impact performance the most is often challenging.  
-This project applies **data analytics and visualization** techniques to answer these questions and build an **interactive dashboard**.  
+<p align="center">
+  <img src="ibm_img.jpeg" width="180" alt="IBM Logo" />
+</p>
 
 ---
 
-## 📌 Objectives  
-- ✅ Clean and organize the dataset  
-- ✅ Calculate **average, highest, and lowest** scores  
-- ✅ Visualize subject-wise and gender-wise performance using **bar & column charts**  
-- ✅ Create interactive **filters (slicers)** in Power BI for class and gender  
-- ✅ Deliver a **Power BI Dashboard** to explore performance by subject, class, and gender  
+## 📌 Overview  
+Student Performance Analysis is a **data analytics & visualization project** that uncovers patterns in academic scores across **subjects, gender, and socio-economic factors**.  
+The project leverages **Python (Jupyter Notebook)** for preprocessing and **Power BI** for building an interactive dashboard that supports **class & gender filters**.  
 
 ---
 
-## 📂 Dataset  
-🎯 Source: [Students Performance in Exams – Kaggle](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)  
+## ✨ Features  
+- 🧹 Data cleaning & preprocessing  
+- 📊 Calculate **average, highest, and lowest scores**  
+- 📉 Visualize **subject-wise & gender-wise performance**  
+- 🎛 Interactive filters (**slicers**) for class & gender in Power BI  
+- 📈 Build an **interactive dashboard** to support educators in decision-making  
 
 ---
 
-## 🛠️ Tools & Technologies  
-- **Python (pandas, seaborn, matplotlib)**  
-- **Jupyter Notebook**  
-- **Power BI**  
-- **IBM SkillsBuild** platform  
+## 🛠️ Tech Stack  
+**Languages & Tools:**  
+- Python (pandas, matplotlib, seaborn)  
+- Jupyter Notebook  
+- Power BI  
+- IBM SkillsBuild  
+
+**Dataset:**  
+- [Students Performance in Exams – Kaggle](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)  
+
+---
+
+## 📂 Project Structure  
+# Student-Performance-Analysis/
+- │-- StudentsPerformance.csv # Original dataset
+- │-- StudentsPerformance_Cleaned.csv # Cleaned dataset
+- │-- StudentsPerformance.ipynb # Jupyter notebook (analysis)
+- │-- Student Performance Analysis.pbix # Power BI dashboard
+- │-- Student_Performance_Analysis_Report.pdf # Project report
+- │-- README.md # Documentation
+- │-- /images # Charts & visualizations
+
 
 ---
 
 ## 📊 Visualizations  
 
 ### 🔹 Gender-wise Average Scores by Subject  
-![Gender-wise Performance](Gender%20-%20Wise%20Average%20Scores%20by%20Subject.png)  
+<img src="Gender - Wise Average Scores by Subject.png" width="500"/>  
 
 ### 🔹 Subject-wise Average Scores  
-![Subject-wise Performance](Subject%20-%20Wise%20Average%20Scores.png)  
+<img src="Subject - Wise Average Scores.png" width="500"/>  
 
 ---
 
-## 🌟 Outcome  
-✔ Built an **interactive Power BI dashboard** showing performance by subject, class, and gender.  
-✔ Provided educators and administrators with **data-driven insights** for better academic planning.  
-✔ Identified achievement gaps to promote **equity and quality education**.  
+## 🚀 Installation & Usage  
 
----
+### 🔧 Setup  
 
-## 📈 Future Enhancements  
-- Adding **attendance & extracurricular data** for deeper insights  
-- Developing **predictive models** to identify at-risk students  
-- Making dashboards **mobile-friendly & web-integrated**  
-- Real-time data integration with school systems  
+# Clone the repository
+git clone https://github.com/USERNAME/Student-Performance-Analysis.git
+cd Student-Performance-Analysis
 
----
+# Open Jupyter Notebook
+jupyter notebook StudentsPerformance.ipynb
 
-## 👨‍💻 Contributors (Team: DataKraft4P)  
-- Krish Gupta – 22ad10kr661@mitsgwl.ac.in  
-- Prateek Batham – prateekbatham.04@gmail.com  
-- Pratham Hande – 22ad10pr656@mitsgwl.ac.in  
-- Priyanshu Chouhan – 22ad10pr1@mitsgwl.ac.in  
+# Or open Power BI dashboard
+Student Performance Analysis.pbix
 
-📍 *Madhav Institute of Technology and Science, Gwalior (M.P)*  
+## 🌟 Outcome
 
----
+✔ Developed an interactive Power BI dashboard
+✔ Identified performance gaps based on subject & gender
+✔ Delivered data-driven insights to support academic planning
+✔ Promotes equity & better resource allocation in education
 
-## 📑 References  
-- 📌 [IBM SkillsBuild Platform](https://skillsbuild.org/)  
-- 📌 [Kaggle Dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)  
+## 🔮 Future Enhancements
 
----
-✨ *Made with Data, Insights & IBM SkillsBuild* ✨
+📌 Add attendance & extracurricular data for deeper insights
+
+📌 Build predictive models to identify at-risk students
+
+📌 Create mobile-friendly & web-based dashboards
+
+📌 Integrate real-time data from school systems
+
+## 👨‍💻 Contributors (Team: DataKraft4P)
+<p align="left"> <img src="https://img.shields.io/badge/Krish Gupta-blue" /> <img src="https://img.shields.io/badge/Prateek Batham-green" /> <img src="https://img.shields.io/badge/Pratham Hande-orange" /> <img src="https://img.shields.io/badge/Priyanshu Chouhan-yellow" /> </p>
+
+📍 Madhav Institute of Technology and Science, Gwalior (M.P)
+
+## 📜 License
+
+This project is licensed under the MIT License – feel free to use, modify, and distribute.
+
+<p align="center"> 🚀 Built with ❤️ using Data, Analytics & IBM SkillsBuild </p> ```
+
+
+
