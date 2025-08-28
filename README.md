@@ -69,10 +69,10 @@ The project leverages **Python (Jupyter Notebook)** for preprocessing and **Powe
 - cd Student-Performance-Analysis
 
 ## Open Jupyter Notebook
-jupyter notebook StudentsPerformance.ipynb
+- jupyter notebook StudentsPerformance.ipynb
 
 ## Or open Power BI dashboard
-Student Performance Analysis.pbix
+- Student Performance Analysis.pbix
 
 ## 🌟 Outcome
 
