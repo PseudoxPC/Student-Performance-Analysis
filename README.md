@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="ibm_img.jpeg" width="180" alt="IBM Logo" />
+  <img src="ibm_logo_animated.gif" width="180" alt="IBM Logo Animated" />
 </p>
 
 ---
@@ -38,7 +38,7 @@ The project leverages **Python (Jupyter Notebook)** for preprocessing and **Powe
 ---
 
 ## 📂 Project Structure  
-# Student-Performance-Analysis/
+## Student-Performance-Analysis/
 - │-- StudentsPerformance.csv # Original dataset
 - │-- StudentsPerformance_Cleaned.csv # Cleaned dataset
 - │-- StudentsPerformance.ipynb # Jupyter notebook (analysis)
@@ -64,22 +64,22 @@ The project leverages **Python (Jupyter Notebook)** for preprocessing and **Powe
 
 ### 🔧 Setup  
 
-# Clone the repository
-git clone https://github.com/USERNAME/Student-Performance-Analysis.git
-cd Student-Performance-Analysis
+## Clone the repository
+- git clone https://github.com/USERNAME/Student-Performance-Analysis.git
+- cd Student-Performance-Analysis
 
-# Open Jupyter Notebook
+## Open Jupyter Notebook
 jupyter notebook StudentsPerformance.ipynb
 
-# Or open Power BI dashboard
+## Or open Power BI dashboard
 Student Performance Analysis.pbix
 
 ## 🌟 Outcome
 
-✔ Developed an interactive Power BI dashboard
-✔ Identified performance gaps based on subject & gender
-✔ Delivered data-driven insights to support academic planning
-✔ Promotes equity & better resource allocation in education
+- ✔ Developed an interactive Power BI dashboard
+- ✔ Identified performance gaps based on subject & gender
+- ✔ Delivered data-driven insights to support academic planning
+- ✔ Promotes equity & better resource allocation in education
 
 ## 🔮 Future Enhancements
 
@@ -94,13 +94,12 @@ Student Performance Analysis.pbix
 ## 👨‍💻 Contributors (Team: DataKraft4P)
 <p align="left"> <img src="https://img.shields.io/badge/Krish Gupta-blue" /> <img src="https://img.shields.io/badge/Prateek Batham-green" /> <img src="https://img.shields.io/badge/Pratham Hande-orange" /> <img src="https://img.shields.io/badge/Priyanshu Chouhan-yellow" /> </p>
 
-📍 Madhav Institute of Technology and Science, Gwalior (M.P)
 
 ## 📜 License
 
 This project is licensed under the MIT License – feel free to use, modify, and distribute.
 
-<p align="center"> 🚀 Built with ❤️ using Data, Analytics & IBM SkillsBuild </p> ```
+<p align="center"> 🚀 Built with ❤️ using Data, Analytics & IBM SkillsBuild </p> 
 
 
 
